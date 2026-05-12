@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Oi, I'm Axel
+# Oi, I'm Axel 👋
 
 ### 🧩 Full stack & mobile developer
 
@@ -12,6 +12,8 @@
 I build web, mobile, and backend products that feel clean, useful, and solid underneath.<br />
 From admin tools and storefronts to auth, CRUD, storage, and navigation, I like making things that feel obvious to use and annoying to break. 🚀
 </p>
+
+<h2>⚒️ Stack</h2>
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
