@@ -1,8 +1,8 @@
 <div align="center">
 
-# Axel
+# Oi, I'm Axel
 
-### Full stack & mobile developer
+### 🧩 Full stack & mobile developer
 
 <sub>Less noise, better flow.</sub>
 
@@ -14,17 +14,16 @@
 
 ---
 
-## About me
+## ✨ About
 
-I build web and mobile apps with a product mindset and a soft spot for clean UX.
+<p align="center">
+I build web and mobile products with a product mindset, clean UX, and solid systems underneath.<br />
+From admin tools and storefronts to auth, CRUD, storage, and navigation, I like making things that feel obvious to use and annoying to break.
+</p>
 
-From admin platforms and storefronts to authentication, databases, CRUD flows, image storage, and mobile navigation, I enjoy building software that feels simple on the surface and well put together underneath.
+## ⚒️ Stack
 
-I like building things that feel obvious to use and annoying to break.
-
-## Stack
-
-### Frontend
+### 🌐 Frontend
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
@@ -35,7 +34,7 @@ I like building things that feel obvious to use and annoying to break.
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
 </p>
 
-### Mobile
+### 📱 Mobile
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -43,7 +42,7 @@ I like building things that feel obvious to use and annoying to break.
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
 </p>
 
-### Backend
+### 🛠️ Backend
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
@@ -53,7 +52,7 @@ I like building things that feel obvious to use and annoying to break.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-### Data & cloud
+### ☁️ Data & cloud
 
 <p align="center">
   <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
