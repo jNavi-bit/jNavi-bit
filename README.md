@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jNavi-bit/jNavi-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# jNavi-bit
 
-Here are some ideas to get you started:
+### Full stack & mobile developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Building useful web and mobile products with a clean, modern approach.</sub>
+
+</div>
+
+---
+
+## About me
+
+I build web and mobile applications with a focus on product, usability, and solid implementation.
+
+My experience includes admin platforms, storefronts, authentication, databases, full CRUD flows, image storage, and mobile navigation.
+
+I enjoy building things that feel simple for the user and stay well structured underneath.
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Kotlin-27282C?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
+</p>
